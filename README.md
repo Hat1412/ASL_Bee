@@ -6,6 +6,7 @@ Learn ASL Fingerspelling at home with the ASL BEE. 🐝
 To download the files:
   ```
   git clone https://github.com/Hat1412/ASL_Bee.git
+  cd ASl_Bee
   ```   
 <h1> Run: </h1>
 <h3> 💻Asl_Bee.py for Pygame front end </h3>
