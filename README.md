@@ -11,7 +11,8 @@ To download the files:
 <h1> Run: </h1>
 <h3> 💻Asl_Bee.py for Pygame front end </h3>
 <pre> 
-python3 AslBee.py
+python3 Asl_Bee.py
+#just Start Typing
 
 </pre>
 </br>
